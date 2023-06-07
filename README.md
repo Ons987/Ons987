@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Defining and setting development, test, release, update, and support processes for DevOps operation**
 
-- 💬 Ask me about **Azure Devops, Microsoft Azure, Docker, Kubernetes, CI/CD pipeline**
+- 💬 Ask me about **Azure Devops, Microsoft Azure, Docker, Kubernetes, CI/CD pipeline, .Net, SQL Server, Microservices, ASP.NET MVC, Entity Framework**
 
 - 📫 How to reach me **ouns.maraoub@gmail.com**
 
